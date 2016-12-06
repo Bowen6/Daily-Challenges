@@ -1,0 +1,1 @@
+bool scrabble(string S1, string S2);
